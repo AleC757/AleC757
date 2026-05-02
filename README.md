@@ -9,9 +9,10 @@ I'm studying Informatic Engineer at UMSS(Universidad Mayor de San Simon),
 At the moment I'm interested in Backend, AI, Cybersecurity
 Currently learning : **C++, Git, Linux**
 
-
-gmail:[ucaceresalejandro757@gmail.com](mailto:ucaceresalejandro757@gmail.com)
-
+## Connect with me
+gmail: [ucaceresalejandro757@gmail.com](mailto:ucaceresalejandro757@gmail.com)
+LinkedIN: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-cáceres-álvarez-1259823b7)
+Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caserola1?igsh=cWQ1dnVoNnRlbGtn)
 
 ## Tools
 

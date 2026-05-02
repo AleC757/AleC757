@@ -21,12 +21,3 @@ gmail:[ucaceresalejandro757@gmail.com](mailto:ucaceresalejandro757@gmail.com)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleC757&show_icons=true&theme=tokyonight)
-
-
-##  Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleC757&layout=compact&theme=tokyonight)
-
